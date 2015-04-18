@@ -1,6 +1,6 @@
 {
   "name": "JSBot",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "author": "Slobodan <slobodan@cloudhorizon.com>",
   "description": "A simple helpful robot for JS Belgrade",
@@ -21,6 +21,6 @@
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
-    "node": "0.10.x"
+    "iojs": "1.7.x"
   }
 }
