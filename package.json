@@ -1,6 +1,6 @@
 {
   "name": "JSBot",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": true,
   "author": "Slobodan <slobodan@cloudhorizon.com>",
   "description": "A simple helpful robot for JS Belgrade",
@@ -14,6 +14,7 @@
     "hubot-huh": "^1.0.1",
     "hubot-javascript": "0.0.7",
     "hubot-maps": "0.0.2",
+    "hubot-npm-tips": "^1.0.1",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
